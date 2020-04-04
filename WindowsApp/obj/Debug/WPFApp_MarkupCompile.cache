@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-C:\Users\lukasb\Source\Repos\Party\WindowsApp\obj\Debug\
+C:\Users\lukasb\source\repos\Party\WindowsApp\obj\Debug\
 WPFApp
 none
 false
 DEBUG;TRACE
-C:\Users\lukasb\Source\Repos\Party\WindowsApp\App.xaml
+C:\Users\lukasb\source\repos\Party\WindowsApp\App.xaml
 4-1739642080
 
-18237970580
-1291480131042
+19-905222878
+129-964095564
 Assets\Styles.xaml;Views\LoginView.xaml;Views\ServerListView.xaml;Views\ShellView.xaml;
 
 True

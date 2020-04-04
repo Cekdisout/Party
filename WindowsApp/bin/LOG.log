@@ -23,3 +23,8 @@
 2020-04-04 12:15:09,793 [1] ERROR WPFApp.Services.HttpService - Authorizataion completed: OK
 2020-04-04 12:15:09,935 [1] ERROR WPFApp.Services.HttpService - Authorizataion completed: OK
 2020-04-04 12:15:12,284 [1] INFO WPFApp.App -         =============  Party is over  =============        
+2020-04-04 13:58:36,555 [1] INFO WPFApp.Bootstrapper -         =============  Party started  =============        
+2020-04-04 13:58:42,973 [1] INFO WPFApp.Services.HttpService - Lets get Token with username: tesonet and password: partyanimal
+2020-04-04 13:58:43,343 [1] ERROR WPFApp.Services.HttpService - Authorizataion completed: OK
+2020-04-04 13:58:43,498 [1] ERROR WPFApp.Services.HttpService - Authorizataion completed: OK
+2020-04-04 13:58:45,103 [1] INFO WPFApp.App -         =============  Party is over  =============        
